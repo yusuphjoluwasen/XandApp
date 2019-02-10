@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="name">name</string>
+    <string name="school">school</string>
+    <string name="already">Already have an Account?\\nClick to Login</string>
+    <string name="already_have_an_account_nclick_to_login">Already have an Account? Click to Login</string>
+    <string name="have">Don\'t have an Account? Click to Register</string>
+    <string name="login">Login</string>
+    <string name="profile">Update Profile</string>
+    <string name="save">SAVE</string>
+    <string name="change">ChangePassword</string>
+    <string name="current">current password</string>
+    <string name="neww">new password</string>
+    <string name="delete_profile">Delete Profile</string>
+    <string name="logout">Logout</string>
+</resources>
